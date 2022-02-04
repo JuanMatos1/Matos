@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wppI?ver=53ba");
+}
+#plantas{
+    height: 200px;
+}
+h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+img{
+    height: 150px;
+}
+
+p{
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    
+}
+
+.per{
+    color: white;
+}
+li{
+    color: white;
+}
